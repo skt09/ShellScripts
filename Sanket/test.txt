@@ -1,0 +1,3 @@
+Writing to the file using cat command.
+This line is appended to the file using cat.
+Hello Linux. Hope you all are doing well.
